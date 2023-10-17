@@ -6,7 +6,7 @@
 # ╚══╝╚══╝ ╚══════╝╚═════╝     ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═══╝ ╚═════╝ 
 
 
-student_name <- "maia arson crimew"
+student_name <- "Morley arson crimew"
 
 
 # This week, you're going to scrape a website!
